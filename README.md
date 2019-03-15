@@ -5,3 +5,4 @@ In this Project I am using Count button which will increments count value by 1 a
 Different colors are used and it also saves the color along with the count value.
 Even we close the app the data will be saved and it will be loaded :thumbsup:
 This is the overview of the project :thumbsup: 
+SharedPreferences are prefered rather than onSaveInstanceState because even it is not in the foreground.
